@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="![Grey Blue Minimalist Professional Technology Service LinkedIn Banner (2)](https://github.com/27manavgandhi/27manavgandhi/assets/77005766/d416a211-9d00-42c9-b3eb-7fa442d5346c)">
+<img align="center" alt="coding" width="100%" src="https://github.com/27manavgandhi/27manavgandhi/assets/77005766/d416a211-9d00-42c9-b3eb-7fa442d5346c">
 
 <h1 align="center">Hi 👋, I'm Manav Gandhi</h1>
 <h3 align="center">A passionate software developer from India</h3>
