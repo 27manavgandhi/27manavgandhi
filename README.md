@@ -11,13 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Saas Platform**
-
-- 🌱 I’m currently learning **Backend Development**
+- 🔭 My [Portfolio](https://manavgandhi.vercel.app/)
 
 - 📫 How to reach me **27manavgandhi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CJzp6LV1fCpneugBGyDbgf_8AZrv7njK/view?usp=sharing](https://drive.google.com/file/d/1CJzp6LV1fCpneugBGyDbgf_8AZrv7njK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dIWYmoLKWt4rpXQMlfYxYy2gP6VKuc9G/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
