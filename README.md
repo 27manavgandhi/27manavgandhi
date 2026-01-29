@@ -28,12 +28,17 @@ I’m a Full Stack Software Engineer with strong depth in backend systems, scala
 ![](https://nirzak-streak-stats.vercel.app/?user=27manavgandhi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=27manavgandhi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=27manavgandhi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🔥 LeetCode Stats:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/27manavgandhi?theme=dark&font=Radio%20Canada&ext=heatmap)
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=27manavgandhi&theme=transparent&border=border&animated=true)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=27manavgandhi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
